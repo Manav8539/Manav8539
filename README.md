@@ -55,7 +55,7 @@
 
 ## 🦁 Development Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Suraj0950&theme=transparent&hide_border=true&border_radius=12&background=0d1117&stroke=30363d&ring=FF0048&fire=FF5B00&currStreakNum=8CFF00&sideNums=FF004C&currStreakLabel=8CFF00&sideLabels=8CFF00&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com?user=Manav8539&theme=transparent&hide_border=true&border_radius=12&background=0d1117&stroke=30363d&ring=FF0048&fire=FF5B00&currStreakNum=8CFF00&sideNums=FF004C&currStreakLabel=8CFF00&sideLabels=8CFF00&dates=8b949e" />
 </p>
 
 ## 📈 Consistency
