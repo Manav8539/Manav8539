@@ -21,20 +21,19 @@
 
 <div align="center">
 
-## 👋 Hi, I'm Suraj Kumar !
+## 👋 Hi, I'm Manav Kumar !
 
 </div>
  
 >  *" </> Code runs on logic, Developers run on ☕ Coffee."*
 > </br>  </br>
-> [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/suryaveer) 
 
 🎓 **PreFinal Year B.Tech Student** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **AI & Real-Time Systems Enthusiast**
 
 ---
 
 ## 🌐 Socials
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajkumar9630) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajsuryaveer@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@surajkumar9630)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryaveer_suraj)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajkumar9630) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajsuryaveer@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@surajkumar9630)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryaveer_suraj) -->
 
 
 # 🔥 Tech Stack
@@ -60,20 +59,14 @@
 </p>
 
 ## 📈 Consistency
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suraj0950&theme=react-dark&hide_border=true&bg_color=00000000&area=true&line=5EFF00&area_color=7BFF2E)](https://github.com/Suraj0950/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manav8539&theme=react-dark&hide_border=true&bg_color=00000000&area=true&line=5EFF00&area_color=7BFF2E)](https://github.com/Manav8539/github-readme-activity-graph)
 
 
 <!-- <p align="center">
   <img src="https://leetcard.jacoblin.cool/Suraj9630?theme=dark&ext=contest&border=0"/>
 </p> -->
 
-## 🐍 Contribution Snake
-<div align="center">
- 
-[![](https://visitcount.itsvg.in/api?id=Suraj0950&icon=5&color=0)](https://visitcount.itsvg.in)
-![snake gif](https://github.com/Suraj0950/Suraj0950/blob/output/github-snake-dark.svg)
 
-</div>
 
 <!-- <div align="center">
  ❤️🩷🧡💛💚💙❤️🩷🧡
