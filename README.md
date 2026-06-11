@@ -59,9 +59,9 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manav8539&theme=react-dark&hide_border=true&bg_color=00000000&area=true&line=5EFF00&area_color=7BFF2E)](https://github.com/Manav8539/github-readme-activity-graph)
 
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://leetcard.jacoblin.cool/Suraj9630?theme=dark&ext=contest&border=0"/>
-</p> -->
+</p> 
 
 
 
