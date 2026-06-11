@@ -60,7 +60,7 @@
 
 
  <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Suraj9630?theme=dark&ext=contest&border=0"/>
+  <img src="https://leetcode.com/u/Manavkumar01/?theme=dark&ext=contest&border=0"/>
 </p> 
 
 
